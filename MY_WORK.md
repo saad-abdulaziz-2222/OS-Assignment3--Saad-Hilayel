@@ -1,4 +1,4 @@
-# 📝 MY_WORK: Student Information, Development Log, Reflection & Answers
+<img width="1917" height="1098" alt="image" src="https://github.com/user-attachments/assets/48320cba-c7f0-413e-ba02-47e961320956" /># 📝 MY_WORK: Student Information, Development Log, Reflection & Answers
 
 > This is the **only file** your instructor reads to grade Parts 3 and 4 (documentation and video). Everything you write here must be **in your own words**.
 
@@ -42,7 +42,7 @@
 
 ## 🎥 Video Link
 
-**Video Link**: [Paste your video link here]
+**Video Link**:[ https://drive.google.com/file/d/1UhV_TV5l5_ozLsuSM_cR98QS9WlSvGOj/view](https://drive.google.com/file/d/1UhV_TV5l5_ozLsuSM_cR98QS9WlSvGOj/view?usp=sharing)
 
 > ⚠️ **WARNING:** The video must be **publicly accessible** ("Anyone with the link can view") on **Google Drive**, **YouTube (Unlisted or Public)** or any other cloud file-sharing system. A private, restricted or broken link counts as a **missing video (-1 mark)**.
 >
